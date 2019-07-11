@@ -28,7 +28,8 @@
     "testEnvironment": "node",
     "resetMocks": true,
     "transform": {
-      "^.+\\.ts$": "ts-jest"
+      "^.+\\.ts$": "ts-jest",
+      "^.+\\.(js|jsx)?$": "babel-jest"
     }
   }
 }
