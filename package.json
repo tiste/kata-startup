@@ -3,12 +3,14 @@
   "version": "1.0.0",
   "description": "",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "start": "babel-node src/index.js"
   },
   "author": "Baptiste Lecocq <baptiste.lecocq@gmail.com> (https://tiste.io)",
   "license": "MIT",
   "devDependencies": {
     "@babel/core": "7.4.5",
+    "@babel/node": "7.7.0",
     "@babel/preset-env": "7.4.5",
     "@types/jest": "24.0.15",
     "@types/node": "12.6.1",
