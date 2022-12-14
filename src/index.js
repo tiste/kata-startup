@@ -1,1 +1,1 @@
-console.log('Kata startup');
+console.log("Kata startup");

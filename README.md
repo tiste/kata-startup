@@ -1,5 +1,7 @@
 # Start up!
 
+`npm i`
+
 ## Launch test
 
 `npm test`
